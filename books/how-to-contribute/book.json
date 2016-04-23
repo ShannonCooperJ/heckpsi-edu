@@ -1,0 +1,44 @@
+{
+    "author": "Delton Ding <delton@heckpsi.com>",
+    "description": "This is a book introducucing how to make contribution to HeckPsi Education project",
+    "extension": null,
+    "generator": "site",
+    "isbn": null,
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "返回 HeckPsi Education": "http://edu.heckpsi.com"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+      "duoshuo"
+    ],
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "heckpsi-edu",
+            "theme": "default"
+        }
+    },
+    "title": "贡献你的公开课",
+    "variables": {}
+}
